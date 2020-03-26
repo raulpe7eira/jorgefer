@@ -1,5 +1,5 @@
 .banner.style1 .content {
-    padding: 3rem 7rem 3rem 7rem;
+    padding: 1rem 7rem 1rem 7rem;
 }
 
 h1.title {
@@ -9,6 +9,14 @@ h1.title {
 
 blockquote.warning {
     background-color: lightyellow;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+}
+blockquote.warning p {
+    margin: 0 0 0.5rem 0;
+}
+
+p.contacts {
+    margin: 0 0 0.5rem 0;
 }
 
 ul.icons li.breathe {
