@@ -2,15 +2,9 @@
     padding: 3rem 7rem 3rem 7rem;
 }
 
-@font-face {
-    font-family: "Comic Sans MS";
-    src: url(assets/comic-sans-ms/ComicSansMS3.ttf) format("truetype");
-}
 h1.title {
+    font-weight: 400;
     color: red;
-}
-h1.title, p.stitle { 
-    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
 }
 
 blockquote.warning {
